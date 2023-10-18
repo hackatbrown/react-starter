@@ -11,11 +11,14 @@ This repository contains an off-the-shelf React app installed with `npm` and Typ
 ## Supplemental packages
 React supports many amazing frameworks for building robust full-stack applications. Here are some popular ones:
 
-**Next.js**: Next.js is a great tool for page routing. You can add Next to your React app by following [these instructions](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs) and learn more about implementing routing navigation [here](https://nextjs.org/docs/pages/building-your-application/routing). 
+### Next.js: 
+Next.js is a great tool for page routing. You can add Next to your React app by following [these instructions](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs) and learn more about implementing routing navigation [here](https://nextjs.org/docs/pages/building-your-application/routing). 
 
-**Tailwind CSS**: Tailwind CSS is a CSS framework that allows for inline CSS styling. Tailwind is a great tool for writing faster, custom CSS. You can add Tailwind to your React app by following [these instructions](https://tailwindcss.com/docs/guides/create-react-app).
+### Tailwind CSS:
+Tailwind CSS is a CSS framework that allows for inline CSS styling. Tailwind is a great tool for writing faster, custom CSS. You can add Tailwind to your React app by following [these instructions](https://tailwindcss.com/docs/guides/create-react-app).
 
-**Material UI**: Material UI provides example templates for React components and simple pages such as buttons, alerts, sign-up pages, etc.  You can use these templates as they come or customize them. You can add Material UI to your React app by following [these instructions](https://mui.com/material-ui/getting-started/installation/) and access the components by opening the sidebar.
+### Material UI: 
+Material UI provides example templates for React components and simple pages such as buttons, alerts, sign-up pages, etc.  You can use these templates as they come or customize them. You can add Material UI to your React app by following [these instructions](https://mui.com/material-ui/getting-started/installation/) and access the components by opening the sidebar.
 
 
 
